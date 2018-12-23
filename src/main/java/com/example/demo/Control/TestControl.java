@@ -10,7 +10,7 @@ public class TestControl {
     @RequestMapping("/use_git")
     public String gitTest(){
 
-        return "你好这是我的第一次使用git在idea上面2232";
+        return "你好这是我的第一次使用git在idea上面2232333";
 
     }
 
